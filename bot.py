@@ -50,7 +50,7 @@ while True:
         data = json.loads(data)
         print time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(int(data['date'])+32400)) + " " + data['from']['print_name'] + " : " + data['text'] 
         msgArr = data['text'].split()
-        #명령어들
+        # Code in here
         if msgArr[0] == "TEST":
             write("TEST")
 		
