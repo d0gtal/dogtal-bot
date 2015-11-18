@@ -1,4 +1,4 @@
-JSON = (loadfile "JSON.lua")()
+JSON = (loadfile "lib/JSON.lua")()
 socket = require"socket"
 socket.unix = require"socket.unix"
 
