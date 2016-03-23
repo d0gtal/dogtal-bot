@@ -4,6 +4,8 @@ Telegram Personal Bot.
 
 It uses Telegram-cli. (https://github.com/vysheng/tg)
 
+NOW YOU CAN'T USE THIS(BECAUSE SUPER GROUP PATCH)
+
 Usage
 -----
 use screen
